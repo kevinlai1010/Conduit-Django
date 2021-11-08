@@ -1,4 +1,4 @@
-# ![Django DRF App](project-logo.png)
+
 
 > ### Example Django DRF codebase containing real world (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) API spec.
 
